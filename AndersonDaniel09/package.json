@@ -1,0 +1,16 @@
+{
+  "name": "andersondaniel09",
+  "version": "1.0.0",
+  "description": "Proyecto base para AndersonDaniel09",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
